@@ -18,6 +18,7 @@ To run this application type in your terminal: java -jar documentator.jar
 In each Javascript File in the Routes folder, you can use these tags:
 
 ####At any place of your Javascript file
+
 @maindescription= Main description of the REST Service
     Example: // @maindescription= This is the main description of my document
 
@@ -25,6 +26,7 @@ In each Javascript File in the Routes folder, you can use these tags:
     Example: // @author= Mauricio Zarate Barrera <morrisgrill@hotmail[DOT]com
 
 ####Inside of your functions
+
 @description= A general function description (This will be inside your functions.
     Example: // @description= This is a function description
 
